@@ -26,10 +26,4 @@ I am passionate about data and believe that accurate analysis can drive meaningf
    <img height="170em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therafaellima&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
-
 ![Snake animation](https://github.com/therafaellima/therafaellima/blob/output/github-contribution-grid-snake.svg)
