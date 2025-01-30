@@ -23,7 +23,7 @@ I am passionate about data and believe that accurate analysis can drive meaningf
  <p align="left">
    <a href="https://github.com/therafaellima">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=therafaellima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therafaellima&layout=compact&langs_count=16&theme=dracula"/>
+   <img height="170em" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therafaellima&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 
 <div style="display: inline_block"><br>
