@@ -32,4 +32,4 @@ I am passionate about data and believe that accurate analysis can drive meaningf
 </div>
 
 
-![Snake animation](https://github.com/letpires/therafaellima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/therafaellima/therafaellima/blob/output/github-contribution-grid-snake.svg)
